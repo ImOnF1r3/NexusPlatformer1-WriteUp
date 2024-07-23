@@ -12,20 +12,13 @@ Difficulty: Medium
 
 NOTE : The headings with (!) should be necessarily included in your writeup while the ones with (*) are optional and should be included only if there is a need to. Of course, you can modify the content of each section accordingly. We just provide some boilerplate text.
 
-# Synopsis (!)
-
-- Briefly explain what the user must do to solve this challenge.
-
 ## Description (!)
 
 - The challenge consists of three levels, each requiring different skills and techniques to solve. The goal is to navigate through these levels using provided hints and tools.
+-  NexusPlatformer1, offers an engaging and moderately challenging experience that combines technical skills with creative problem-solving. Each level, from cracking SHA-256 hashes to manipulating game variables and teleporting through voids, is designed to test and enhance your abilities in a fun and stimulating way. The aim is to provide both an educational and enjoyable adventure that pushes the boundaries of your reverse engineering and problem-solving skills.
 
 ## Skills Required (!)
 
-- Python
-- Researching Skills
-- C/C++
-- Know how to use common RE tools (i.e. Ghidra, IDA)
 - Hashcat
 - Cheat Engine
 
