@@ -28,33 +28,6 @@ NOTE : The headings with (!) should be necessarily included in your writeup whil
 - Learn how to manipulate game variables using Cheat Engine.
 - Learn how to teleport within a game environment by modifying coordinates.
 
-# Enumeration (!)
-
-## Analyzing the source code (*)
-
-- Explain what source files you are provided with when you unzip the challenge zip file.
-
-Analyze the source files as much as you can so it is clear what the challenge is about.
-
-...
-
-If we look at source.py, we can see that our goal is:
-
-- Specify the goal of the challenge (i.e. where the flag is and how it can be accessed)
-- ...
-
-The basic workflow of the script is as follows:
-
-1. Method test() is called which then calls test1()
-2. test1() creates an object of the XXX class which initializes YYY.
-3. ...
-
-A little summary of all the interesting things we have found out so far:
-
-1. The PHP query handler does not use prepared statements.
-2. The RSA modulo is generated with a non-standard way.
-3. ...
-
 # Solution (!)
 
 ## Finding the vulnerability (*)
