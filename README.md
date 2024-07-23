@@ -30,10 +30,6 @@ NOTE : The headings with (!) should be necessarily included in your writeup whil
 
 # Solution (!)
 
-## Finding the vulnerability (*)
-
-Explain where the vulnerability is. Be as detailed as possible so there are no logical gaps as to how you figured out the vulnerability and how you will proceed to the solution.
-
 ### Level 1: Terminal Decryption
 
 1. The password is an 8-character string that includes uppercase letters, numbers, and special characters, but no lowercase letters.
