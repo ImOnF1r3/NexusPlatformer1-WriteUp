@@ -1,14 +1,12 @@
-# NexusPlatformer1-WriteUp
-
 ![img](assets/banner.png)
 
 <img src='assets/htb.png' style='zoom: 80%;' align=left /> <font size='10'><Challenge_Name></font>
 
-1<sup>st</sup> August 2023
+23<sup>st</sup> July 2024
 
-Prepared By: `<author_name>`
+Prepared By: `ImNullP01NT #2019566`
 
-Challenge Author(s): `<author_name>`
+Challenge Author(s): `ImNullP01NT #2019566`
 
 Difficulty: <font color='orange'>Medium</font>
 
